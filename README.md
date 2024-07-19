@@ -3,7 +3,7 @@
 - 🌱 I've been studying at FPT University since 2022, and expect to graduate in 2025.
 - 👯 I'm looking forward to an internship.
 - 🤔 Any requests for jobs and mentoring are appreciated.
-- ⚡ My goal is to become a Database Administrator.
+- ⚡ My goal is to become a Database Architect.
 - 💬 I'm open to any talk about Java, Javascript, C#, and technologies such as Postman, Docker,...
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/h.ngquang) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dqh-hyudequeue) 
