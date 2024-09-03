@@ -14,3 +14,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=HyuDeQueue&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HyuDeQueue&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HyuDeQueue&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## ☕ Support Me
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FE7A16?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/hyudequeue)
