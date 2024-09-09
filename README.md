@@ -1,7 +1,7 @@
 # 💫About Me :
 - 🔭 I'm currently a Backend Developer.
 - 🌱 I've been studying at FPT University since 2022, and expect to graduate in 2025.
-- 👯 I'm looking forward to an internship.
+- 👯 I'm looking forward to an internship as a Software Engineer/Database Architect.
 - 🤔 Any requests for jobs and mentoring are appreciated.
 - ⚡ My goal is to become a Database Architect.
 - 💬 I'm open to any talk about Java, Javascript, C#, and technologies such as Postman, Docker,...
